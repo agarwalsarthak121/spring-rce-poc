@@ -31,7 +31,7 @@ RUN ls -al
 RUN tar xvzf "apache-tomcat-${TOMCAT_VERSION}.tar.gz"
 RUN mv "apache-tomcat-${TOMCAT_VERSION}"/* /opt/tomcat/
 
-RUN cp -a /usr/src/s4s/target/handling-form-submission-complete.war \
+RUN cp -a /usr/src/s4s/target/spring-rce-demo.war \
 	/opt/tomcat/webapps/
 
 # Just a declaration.
