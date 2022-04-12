@@ -13,6 +13,6 @@ Minimal example of how to reproduce Spring RCE.
     ```shell
     ./exploits/run.sh
     ```
-4. The exploit is going to create `rce.jsp` file in  `webapps/handling-form-submission-complete` on the web server.
+4. The exploit is going to create `rce.jsp` file in  `webapps/spring-rce-demo` on the web server.
 5.  Use the exploit
 Browse to [http://localhost:8080/spring-rce-demo/rce.jsp](http://localhost:8080/spring-rce-demo/rce.jsp)
