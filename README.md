@@ -1,4 +1,4 @@
-# CVE-2022-22965 PoC
+# spring-rce-poc
 
 Minimal example of how to reproduce CVE-2022-22965 Spring RCE.
 
