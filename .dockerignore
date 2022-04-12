@@ -1,0 +1,4 @@
+# https://stackoverflow.com/questions/45929081/docker-build-is-not-using-cache
+Dockerfile
+exploits
+.git
