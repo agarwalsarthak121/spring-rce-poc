@@ -10,9 +10,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>handling-form-submission-complete</artifactId>
+	<artifactId>spring-rce-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>handling-form-submission-complete</name>
+	<name>spring-rce-demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
