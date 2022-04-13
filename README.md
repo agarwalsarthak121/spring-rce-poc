@@ -6,7 +6,7 @@ Minimal example of how to reproduce Spring RCE.
 
 Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
-Exploiting the Vulnerability :
+## Exploiting the Vulnerability :
 
 1. Build the application using Docker compose
     ```shell
@@ -21,7 +21,7 @@ Exploiting the Vulnerability :
 5.  Use the exploit
 Browse to [http://localhost:8080/spring-rce-demo/rce.jsp](http://localhost:8080/spring-rce-demo/rce.jsp)
 
-Verifying the workaround
+## Verifying the workaround :
 
 1. Clean Docker Cache and Existing Containers
     ```shell
