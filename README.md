@@ -4,6 +4,8 @@ Minimal example of how to reproduce Spring RCE.
 
 ## Run using docker compose
 
+Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
 1. Build the application using Docker compose
     ```shell
     docker-compose up --build
